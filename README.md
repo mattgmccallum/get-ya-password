@@ -1,14 +1,13 @@
 ## Password Generator - Functionality Improvement
 
-Simple overview of use/purpose.
 
 # Deployed application can be found here: 
 
-
+https://mattgmccallum.github.io/get-ya-password/
 
 # The deployed application should load like this:
 
-
+<img width="845" alt="Generate-Password" src="https://user-images.githubusercontent.com/112361667/191170862-3c62434c-3bf4-4d98-bad2-66839f8f67d6.png">
 
 # Description
 Password security is essential to living a in a safe and secure online world. Randomly generated passwords are the most secure way of keeping your data safe. With randomly generated passwords users are less likely to re-use old password for multiple sites thus curbing th effects that data-leaks will have on their security.
